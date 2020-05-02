@@ -4,6 +4,9 @@
     <list default="true" id="03a5e501-6bd9-49de-8f79-df1c66d33c21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Assoe/functions/MyFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assoe/functions/MyFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assoe/translate/Translator$Language.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assoe/translate/Translator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions/MyFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/MyFunctions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Translator">
+  <component name="RunManager" selected="Application.StripAccent">
     <configuration name="MyFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functions.MyFunctions" />
       <module name="Assoe" />
@@ -55,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testing.Test1" />
+    <configuration name="StripAccent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regular_expressions.StripAccent" />
       <module name="Assoe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testing.*" />
+          <option name="PATTERN" value="regular_expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StripAccent" />
         <item itemvalue="Application.Translator" />
         <item itemvalue="Application.MyFunctions" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
